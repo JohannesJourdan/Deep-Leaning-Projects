@@ -1,0 +1,24 @@
+1 download CNN_model_weights.weights.h5 from link below to project directory
+https://huggingface.co/spaces/ZROF/ML_2025/tree/main
+
+2. Open Command Prompt and Navigate to Your Project Directory
+
+cd C:\path\to\your\project\folder
+
+3. Create a Virtual Environment Named ser-venv
+
+py -3.11 -m venv ser-venv
+
+4. Activate the Virtual Environment
+
+ser-venv\Scripts\activate
+
+5. Install Required Dependencies 
+
+pip install -r requirements.txt
+
+6. Run the Application
+
+python app.py
+
+7. Click the localhost link
